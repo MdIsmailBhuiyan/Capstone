@@ -8,7 +8,6 @@
 #or,
 #pip install -r requirement.txt
 
-
 import os
 import pydicom
 import numpy as np
